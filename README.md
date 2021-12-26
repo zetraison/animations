@@ -1,2 +1,4 @@
 # animations
-A javascript canvas animations samples
+A javascript canvas animations
+
+- [fireworks](https://zetraison.github.io/projects/animations/fireworks/)
